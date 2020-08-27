@@ -14,5 +14,5 @@ Afterwards enter the following command to build and install dmenu2 (run as root,
 
     make clean install
 
-## Running dmenu2
+## Usage
 See the man page for details.
